@@ -35,6 +35,10 @@
       "type": "text"
 
     },
+    "coverImage": {
+      "type": "media",
+      "multiple": false
+    },
 
     "publishedDate": {
 
