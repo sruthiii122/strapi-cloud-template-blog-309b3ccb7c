@@ -50,6 +50,10 @@
       "type":"relation",
       "relation":"manyToOne",
       "target":"api::author.author"
+    },
+    "seo": {
+      "type":"component",
+      "component":"shared.seo"
     }
 
   }
