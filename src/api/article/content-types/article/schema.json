@@ -54,6 +54,14 @@
     "seo": {
       "type":"component",
       "component":"shared.seo"
+    },
+
+    "contentBlocks":{
+      "type":"dynamiczone",
+      "components":[
+        "shared.rich-text",
+        "shared.media"
+      ]
     }
 
   }
